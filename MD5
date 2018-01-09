@@ -1,0 +1,6 @@
+44508cd2e5a597c279316f2fd214df16 *DESCRIPTION
+f5e551138d903c95a196585d28fecda1 *NAMESPACE
+95478d3ab2223eb8c1a81cd85bcda9aa *R/rotate_plot.R
+ada60579b8c47d2dae6afc29fa03667b *cleanup
+7fe02f36b5c65eca947f64ca4f3013a1 *man/rotate.Rd
+6c149cc063b63d6f0d3a573f9e1df09d *tests/regtest.R
